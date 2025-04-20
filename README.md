@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Bandar Al-Qahtani
 - 👀 I’m interested in Data Science and AI and web
 - 🌱 I’m currently learning Data Science 
-- 📫 How to reach me? you can use Instagram or Twitter or LinkedIn
+- 📫 How to reach me? you can use Instagram , Twitter or LinkedIn
 - ⚡ A fun fact about me is that I have a big interest in the studies of AI and data science
 
 <!---
