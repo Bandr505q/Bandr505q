@@ -88,19 +88,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Bandr505q/Bandr505q/output/snake.svg" alt="Snake animation" />
-
-###
-
 <img align="left" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3VyaDl2dmg4cTBwYnUyNzR0MG9tbWo3ZXhsdTFxeGcwbXVnMm4wMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pO4UHglOY2vII/giphy.gif"  />
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bandr505q/Bandr505q/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bandr505q/Bandr505q/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Bandr505q/Bandr505q/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
